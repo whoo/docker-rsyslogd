@@ -2,7 +2,7 @@
 
 Add docker/local storage to keep your log files.
 
-Based from [alpine](https://www.alpinelinux.org/) distribution ... my favorite 'lite' distrib for docker.
+Based on [alpine](https://www.alpinelinux.org/) distribution ... my favorite 'lite' distrib for docker.
 
 
 ```
