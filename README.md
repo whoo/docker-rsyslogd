@@ -2,5 +2,6 @@
 
 Add docker/local storage 
 ```
-git@github.com:whoo/docker-rsyslogd.git
+docker run -it --rm -v rsyslog:/var/log/rsyslog docker-syslog
+
 ```
