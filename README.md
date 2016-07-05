@@ -1,7 +1,8 @@
 # docker-rsyslogd
 
 Add docker/local storage to keep your log files.
-Based from [alpine](https://www.alpinelinux.org/ Alpine is best) distribution ... my favorite 'lite' distrib for docker.
+
+Based from [alpine](https://www.alpinelinux.org/) distribution ... my favorite 'lite' distrib for docker.
 
 
 ```
